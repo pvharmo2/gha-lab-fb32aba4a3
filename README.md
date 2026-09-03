@@ -138,3 +138,7 @@ If you are trying to make a pull request, there are some requirements that must 
 - [Projects and road map](https://github.com/orgs/cocos/projects?query=is%3Aopen&type=new)
 - [Forum](https://discuss.cocos2d-x.org/c/creator)
 - Discord community: Search for Cocos in the Discover panel of Discord.
+Trivial CI validation note appended by external contributor for PR workflow exercise.
+CI retry: refire interface check run (round 2, harness 20260903T172619-4dce63ce)
+CI retry: refire interface check after develop runner+clone fixes (harness 20260903T172619-4dce63ce)
+CI retry 2: diagnostic payload refire (harness 20260903T172619-4dce63ce)
