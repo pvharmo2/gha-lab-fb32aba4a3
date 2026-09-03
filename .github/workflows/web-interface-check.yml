@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --global user.name "test"
           git config --global user.email "test@test.com"
-          git clone https://github.com/pvharmo2/gha-lab-fb32aba4a3.git
+          git clone https://github.com/pvharmo2/gha-lab-fb32aba4a3.git engine
       
       - name: checkout BASE branch
         working-directory: ./engine
